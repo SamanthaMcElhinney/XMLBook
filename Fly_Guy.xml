@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactiveBook>
+    <tableOfContents>
+        <title>Fly Guy Goes Out to Eat</title>
+        <author>Ted Arnold</author>
+        <pageNumber>1</pageNumber>
+    </tableOfContents>
+    <content>
+        <p>So, you went out to eat? said Buzz</p>
+        <quotes>Yezz!</quotes>
+        <p>Buzz looked down below. The Garbage truck and a police car were following them.</p>
+        <image id="imagePage1" src="src/fly.png"></image>
+    </content>
+    <comprehension>
+        <whQuestion>What action is Fly guy doing</whQuestion>
+        <whQuesiton1>
+            <choice>Flying</choice>
+            <choice>Running</choice>
+            <choice>Eating</choice>
+        </whQuesiton1>
+        <predictiveQuestion>Where do you think Buzz will go next?</predictiveQuestion>
+        <predictiveQuestion1>
+            <choice>The zoo</choice>
+            <choice>The restaurant</choice>
+            <choice>The police station</choice>
+        </predictiveQuestion1>
+    </comprehension>
+</interactiveBook>
